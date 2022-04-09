@@ -1,0 +1,21 @@
+{
+  "name": "mern-tutorial",
+  "version": "1.0.0",
+  "description": "Goal Setter App",
+  "main": "server.js",
+  "author": "Ahmad Irfan Mohammad Shukri",
+  "license": "MIT",
+  "scripts": {
+    "start": "node server/server.js",
+    "server": "nodemon server/server.js"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "mongoose": "^6.2.10"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
