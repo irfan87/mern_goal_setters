@@ -5,6 +5,7 @@
   "main": "server.js",
   "author": "Ahmad Irfan Mohammad Shukri",
   "license": "MIT",
+  "type": "commonjs",
   "scripts": {
     "start": "node server/server.js",
     "server": "nodemon server/server.js"
